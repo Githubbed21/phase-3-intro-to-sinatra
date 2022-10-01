@@ -1,4 +1,5 @@
 describe "App" do
+
   it "can add 1 + 2" do
     # Make a GET request to the server
     get "/add/1/2"
